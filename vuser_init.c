@@ -1,5 +1,5 @@
 vuser_init()
 {
-	//local change 2
+	//remote change 2
 	return 0;
 }
